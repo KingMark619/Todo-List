@@ -1,24 +1,23 @@
 # todo-list
 
 ## Project setup
+
 ```
 npm install
 ```
 
 ### Compiles and hot-reloads for development
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Usage
 
-### Lints and fixes files
 ```
-npm run lint
-```
+To do list with VUEJS
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+add a list of task you would like to accomplish
+toggle complete button
+delete to do
+```
